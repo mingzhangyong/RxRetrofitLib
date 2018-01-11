@@ -1,8 +1,6 @@
 package com.rxretrofit.mingzhangyong.rxretrofit;
 
-/**
- * Created by DeathKnightMo on 15-4-28.
- */
+
 public class StatusCode {
 
     public static final int NETWORK_ERROR = -1;//网络异常

@@ -17,10 +17,6 @@ import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 import retrofit2.HttpException;
 
-/**
- * Created by zx on 2017/6/15.
- */
-
 public abstract class BaseObserver<T> implements Observer<T> {
     private Disposable disposable;
 

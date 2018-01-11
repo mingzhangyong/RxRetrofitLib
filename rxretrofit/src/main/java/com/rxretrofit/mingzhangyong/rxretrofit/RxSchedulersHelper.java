@@ -11,10 +11,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.annotations.NonNull;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by zx on 2017/6/20.
- */
-
 public class RxSchedulersHelper<T> {
     /**
      * ！！！注意：此处传入的是(Activity)this.不是Context；

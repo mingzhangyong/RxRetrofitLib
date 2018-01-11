@@ -11,10 +11,6 @@ import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by zx on 2017/6/14.
- */
-
 public class RetrofitClient {
     private Retrofit retrofit;
     public static final String CONTENT_TYPE_JSON = "Content-type:application/json; charset=utf-8";

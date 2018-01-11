@@ -2,10 +2,6 @@ package com.rxretrofit.mingzhangyong.rxretrofit;
 
 import java.io.Serializable;
 
-/**
- * Created by DeathKnightMo on 15-4-5.
- * 用于异常的返回
- */
 public class RestBase implements Serializable {
 
 

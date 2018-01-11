@@ -14,10 +14,6 @@ import com.trello.rxlifecycle2.android.RxLifecycleAndroid;
 import io.reactivex.Observable;
 import io.reactivex.subjects.BehaviorSubject;
 
-/**
- * Created by mingzhangyong on 18-1-11.
- */
-
 public class BaseActivity extends AppCompatActivity implements LifecycleProvider<ActivityEvent> {
     /**
      * 实现RxLifeCycle部分。。。
