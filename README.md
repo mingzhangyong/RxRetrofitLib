@@ -22,4 +22,4 @@ RxRetrofitLib实现了Android客户端与服务器的网络交互并且避免了
     compile 'com.github.mingzhangyong:RxRetrofitLib:1.0'
   }
 ```
-* 定义自己的model类和对应的api类,示例如下
+* 定义自己的model类和对应的api类,示例见demo
